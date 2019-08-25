@@ -1,3 +1,3 @@
 
 prod:
-	fyne-cross -v -targets=linux/amd64,windows/amd64,darwin/amd64 .
+	fyne-cross -v -targets=linux/amd64,windows/amd64,darwin/amd64 -output=seismocloud-pc-utils .
